@@ -69,7 +69,7 @@ export default function Footer() {
       <Container className={classes.afterFooter}>
         <Text color="dimmed" size="sm">
           Copyright © 2022 DapotZ All rights reserved, view the source code on{" "}
-          <a href="https://github.com/DapotZ" target="_blank" rel="noreferrer">
+          <a href="https://github.com/DapotZ/dapotz" target="_blank" rel="noreferrer">
             GitHub
           </a>
           .
